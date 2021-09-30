@@ -1,2 +1,2 @@
-# Reposit-rio-DIO
+# Repositorio-DIO
 Desafio de projeto sobre Git-Github
